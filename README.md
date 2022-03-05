@@ -20,7 +20,7 @@ Q5. In which counties is the average age of mother less than 24 and they have co
 
 ![image](https://user-images.githubusercontent.com/101001685/156884419-acecef24-9627-4126-83fb-e02d5e1592ba.png)
 
-Q6. In which counties is the father’s race White and the mother’s age is greater than 30? 
+Q6. In which counties is the father’s race White and the mother’s age is greater than 34? 
 
 ![image](https://user-images.githubusercontent.com/101001685/156884505-767b6dea-56d7-4f9f-b3d2-48691a634716.png)
 
